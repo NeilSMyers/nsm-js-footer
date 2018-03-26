@@ -1,0 +1,25 @@
+{
+  "name": "nsm-js-footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with an updates year and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeilSMyers/nsm-js-footer.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "Neil Myers <mmyersneil@gmail.com> (https://www.npmjs.com/~neilmyers)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NeilSMyers/nsm-js-footer/issues"
+  },
+  "homepage": "https://github.com/NeilSMyers/nsm-js-footer#readme",
+  "dependencies": {
+    "moment": "^2.21.0"
+  }
+}
